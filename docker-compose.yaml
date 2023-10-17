@@ -2,6 +2,6 @@ version: '3.9'
 
 services:
   web:
-    image: "akshaynahar/node-cicd-app:latest"
+    image: "akshaynahar/node-js-app:latest"
     ports:
       - "8000:8000"
